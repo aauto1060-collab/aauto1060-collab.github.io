@@ -1169,7 +1169,6 @@ google.com, pub-8741692340953204, DIRECT, f08c47fec0942fa0
 
 
 
-facebook.com,950623823742544,RESELLER,c3e20eee3f780d68
 
 
 
